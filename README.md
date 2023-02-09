@@ -1,2 +1,3 @@
 # mouseMovementTest
-some testing
+
+Test the mouse movement and inactivity with javascript.
